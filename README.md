@@ -103,7 +103,7 @@ lms-app/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/lms-app.git
+  https://github.com/SirCodeKnight/Learning-Management-System-LMS-.git
    cd lms-app
    ```
 
